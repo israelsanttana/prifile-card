@@ -6,6 +6,9 @@
 
 body {
     background: url(./images/bg-pattern-bottom.svg);
+    background-color: #3fcbd4
+
+    
     
     
 }
@@ -21,7 +24,8 @@ body {
     left: 0;
     right: 0;   
     background-color: rgb(255, 255, 255); 
-    box-shadow: 0 0 50px 2px rgb(156, 156, 156);
+    box-shadow: 0 0 300px 2px rgb(36, 36, 36);
+    
     
 
 }
@@ -99,6 +103,8 @@ body {
     border-bottom-left-radius: 0;
     background-image: url(./images/bg-pattern-card.svg);
     background-repeat: no-repeat;
+    
+    
 
     
 }
